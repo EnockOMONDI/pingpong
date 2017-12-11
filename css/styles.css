@@ -19,20 +19,17 @@ nav h3 {
     color: white;
     font-size: 20px;
     text-align: right;font-size: 50px;
-    color: #ffc2c2;font-family:
-}
+    color: #ffc2c2;
+  }
+    .sidenav {
+    width: 335px;
+    height: 800px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: #4f706a;
 
-
-.w3-sidebar{background-color:#597772 ;width: 50px;border-style: ;
-  background-size: auto;
-  background-repeat: repeat;
-  background-image: url(../images/pingping.png);
-  background-size: 80px;
-  float: right;
-  background-repeat: no-repeat;
-
-
-
+    padding: 8px 0;
 }
 #pew{
   background-color: lightgrey;
@@ -42,7 +39,7 @@ body {
   background-image: url(../images/play.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  width: 100%;
+  width:100%;
 }
 h3 {
   color: black;
@@ -74,9 +71,9 @@ ol{
   font-weight: bolder;
 }
 h1{
-  color: #;
   background-color:#597772 ;
   border-style: dashed;
-  border-radius:
+border-radius: 60%;
+text-align: center;
 
 }
