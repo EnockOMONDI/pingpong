@@ -65,14 +65,14 @@ p{
   font-family: Comic Sans MS;
 }
 ol{
-  color: orange;
+  color: #85144b;
   font-size: 16px;
   font-weight: bold;
   font-weight: bolder;
 }
 h1{
   background-color:#597772 ;
-  border-style: dotted;
+  border-style: solid;
   width: 100px;
   border-radius: 20px;
   text-align: center;
