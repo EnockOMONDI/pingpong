@@ -23,9 +23,14 @@ nav h3 {
 }
 
 
-.w3-sidebar{background-color:#597772 ;width: 50px;border-style: solid;
+.w3-sidebar{background-color:#597772 ;width: 50px;border-style: ;
   background-size: auto;
   background-repeat: repeat;
+  background-image: url(../images/pingping.png);
+  background-size: 80px;
+  float: right;
+  background-repeat: no-repeat;
+
 
 
 }
@@ -58,7 +63,7 @@ h5 {
 }
 p{
   font-size: 25px;
-  color: orange;
+  color: #21260d;
   font-weight: bold;
   font-family: Comic Sans MS;
 }
