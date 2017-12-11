@@ -1,14 +1,77 @@
-.container {
-  background-image: url(../images/BeefandRiceHD.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-height: 500px;
-width: 100%;
-padding-top: 160px;
-text-align: center;
+nav {
+    display: flex;
+    justify-content: center;
+    padding:140px;
+    background: #ABB2B9;
+    background-image: url(../images/1logo.png);
+    background-repeat:no-repeat ;
+   background-position: center;
+}
+
+nav h3 {
+    list-style-type: none;
+    display: flex;font-size: 100px;
 
 }
-.saying {
-  font-size: 350% ;
-  color: darkslategrey ;
+
+nav h3 {
+    font-weight: 300;
+    color: white;
+    font-size: 20px;
+    text-align: right;font-size: 50px;
+    color: #ffc2c2;font-family:
+}
+
+
+.w3-sidebar{background-color:#597772 ;width: 50px;border-style: solid;
+  background-size: auto;
+  background-repeat: repeat;
+
+
+}
+#pew{
+  background-color: lightgrey;
+}
+body {
+  background-color: #ededed;
+  background-image: url(../images/play.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+h3 {
+  color: black;
+}
+
+h2{
+  color:  black;
+}
+h4 {
+  color: #FFFFFF  ;
+}
+h5 {
+  color: red;
+
+}
+#numeral {
+  width: 40%;
+}
+p{
+  font-size: 25px;
+  color: orange;
+  font-weight: bold;
+  font-family: Comic Sans MS;
+}
+ol{
+  color: orange;
+  font-size: 16px;
+  font-weight: bold;
+  font-weight: bolder;
+}
+h1{
+  color: #;
+  background-color:#597772 ;
+  border-style: dashed;
+  border-radius:
+
 }
