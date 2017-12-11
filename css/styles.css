@@ -30,9 +30,7 @@ nav h3 {
     background: #4f706a;
 
     padding: 8px 0;
-}
-#pew{
-  background-color: ;
+
 }
 body {
   background-color: #ABB2B9;
@@ -51,10 +49,6 @@ h2{
 h4 {
   color: #FFFFFF  ;
 }
-h5 {
-  color: red;
-
-}
 #numeral {
   width: 40%;
 }
@@ -65,7 +59,7 @@ p{
   font-family: Comic Sans MS;
 }
 ol{
-  color: #85144b;
+  color: v#85144b;
   font-size: 16px;
   font-weight: bold;
   font-weight: bolder;
